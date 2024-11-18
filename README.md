@@ -1,4 +1,4 @@
-# Sarah's Portfolio 💎
+# Alsaba's Portfolio 💎
 
 Welcome to the repository for Alsaba Khan's personal portfolio website. This portfolio showcases some of my skills, projects and experiences. It is built using HTML, CSS, and JavaScript, with a focus on clean design and responsiveness.
 
