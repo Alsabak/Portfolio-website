@@ -16,7 +16,6 @@ Click Here to see  👉[My Portfolio](https://alsabakhan-portfolio.netlify.app/)
 - CSS3: For styling the content.
 - JavaScript: For interactivity and dynamic content.
 - Font Awesome: For icons.
-- Git: For version control.
 
 ## Features 💡
 - Responsive Design: The portfolio is fully responsive and works well on various devices and screen sizes.
