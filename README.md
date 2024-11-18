@@ -32,7 +32,7 @@ Click Here to see  👉[My Portfolio](https://alsabakhan-portfolio.netlify.app/)
 - Home: Introduction and brief overview.
 - About: Detailed information about alsaba's background.
 - Portfolio: Display of alsaba's projects with links to their respective repositories.
-- Contact: Information on how to get in touch with Sarah, including email and social media links.
+- Contact: Information on how to get in touch with alsaba, including email and social media links.
 
 ### Switching Color Themes 📌
 - Open the style switcher by clicking the gear icon.
