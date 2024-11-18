@@ -31,8 +31,7 @@ Click Here to see  👉[My Portfolio](https://alsabakhan-portfolio.netlify.app/)
 ### Navigation 💻
 - Home: Introduction and brief overview.
 - About: Detailed information about alsaba's background.
-- Services: A list of services Sarah offers, such as back-end development and computer graphics design.
-- Portfolio: Display of Sarah's projects with links to their respective repositories.
+- Portfolio: Display of alsaba's projects with links to their respective repositories.
 - Contact: Information on how to get in touch with Sarah, including email and social media links.
 
 ### Switching Color Themes 📌
