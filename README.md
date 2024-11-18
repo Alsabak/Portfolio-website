@@ -1,8 +1,8 @@
 # Sarah's Portfolio 💎
 
-Welcome to the repository for Sarah Abu Irmeileh's personal portfolio website. This portfolio showcases some of my skills, projects, experiences, and contact information. It is built using HTML, CSS, and JavaScript, with a focus on clean design and responsiveness.
+Welcome to the repository for Alsaba Khan's personal portfolio website. This portfolio showcases some of my skills, projects and experiences. It is built using HTML, CSS, and JavaScript, with a focus on clean design and responsiveness.
 
-Click Here to see  👉[My Portfolio](https://sarah-abu-irmeileh-portfolio.netlify.app/)👈
+Click Here to see  👉[My Portfolio](https://alsabakhan-portfolio.netlify.app/)👈
 
 
 ## Table of Contents 📋
@@ -31,7 +31,7 @@ Click Here to see  👉[My Portfolio](https://sarah-abu-irmeileh-portfolio.netli
 ## Usage 👩🏻‍💻
 ### Navigation 💻
 - Home: Introduction and brief overview.
-- About: Detailed information about Sarah's background.
+- About: Detailed information about alsaba's background.
 - Services: A list of services Sarah offers, such as back-end development and computer graphics design.
 - Portfolio: Display of Sarah's projects with links to their respective repositories.
 - Contact: Information on how to get in touch with Sarah, including email and social media links.
@@ -44,13 +44,4 @@ Click Here to see  👉[My Portfolio](https://sarah-abu-irmeileh-portfolio.netli
 - Fill out the form with your name, email, subject, and message.
 - Click "Send Message" to submit your inquiry.
 
-## Contact 📨
-
-For any inquiries, you can reach Sarah Abu Irmeileh through the following channels:
-
-- Email: [sarahabuirmeileh@gmail.com](mailto:sarahabuirmeileh@gmail.com)
-- GitHub: [SarahAbuirmeileh](https://github.com/SarahAbuirmeileh)
-- LinkedIn: [Sarah Abu Irmeileh](https://www.linkedin.com/in/sarahabuirmeileh)
-- Medium: [SarahAbuirmeileh](https://medium.com/@SarahAbuirmeileh)
-
-Feel free to fork this repository, raise issues, or submit pull requests. Thank you for visiting! 🔥
+Thank you for visiting! 🔥
